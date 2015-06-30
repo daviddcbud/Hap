@@ -1,0 +1,16 @@
+{
+  "name": "hapitest",
+  "version": "0.0.0",
+  "authors": [
+    "daviddcbud <daviddcbud@hotmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components/",
+    "test",
+    "tests"
+  ]
+}

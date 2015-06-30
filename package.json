@@ -1,0 +1,19 @@
+{
+  "name": "hapitest",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "hapi": "~8.6.1",
+    "handlebars": "~3.0.3",
+    "joi": "~6.5.0",
+    "boom": "~2.8.0",
+    "good": "~6.2.0",
+    "good-file": "~5.0.1"
+  }
+}

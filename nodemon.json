@@ -1,0 +1,5 @@
+{
+    "ignore" : ["logs/*", "public/*"],
+    "watch" : [
+        "**/*.js"]
+}
