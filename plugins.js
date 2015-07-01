@@ -1,6 +1,7 @@
 module.exports= function(server){
 
 
+/*
 server.register(
     {
         register: require('good'),
@@ -41,5 +42,5 @@ server.register(
         console.log(err);
     }
 );
-
+*/
 };
